@@ -1,0 +1,45 @@
+body{
+    background-color: #F0F8FF;
+  }
+  
+  fieldset, h1, p{
+    display: block;
+    text-align: center;
+    margin: auto;
+  }
+  
+  fieldset{
+    border-radius: 5px;
+  }
+  input, checkbox, select, textarea{
+    height: 20 px;
+    border: none;
+    border-radius:6px;
+  }
+  input[type="submit"]{
+  margin-left:0;
+  margin-right:0;
+  margin-top: 20px;
+  margin-bottom:0;
+  }
+  
+  fieldset{margin-left:0;
+  margin-right:0;
+  margin-top: 20px;
+  margin-bottom:0;}
+  
+  div{
+    margin-left:0;
+  margin-right:0;
+  margin-top: 7px;
+  margin-bottom:0;
+  }
+  input[type="radio"]{
+  margin: auto;
+  }
+  
+  .input-element{
+    margin: auto;
+  }
+  
+  
